@@ -1,0 +1,18 @@
+ Shopify CSV Editor and Cleaner Tool
+Copyright (c) 2026 The Moon Studio
+
+All rights reserved.
+
+This software is proprietary and confidential.
+
+Permission is granted to use this software only under the following conditions:
+
+1. The software may be used only by the licensed user.
+2. Redistribution, resale, or sharing of the software is strictly prohibited.
+3. Reverse engineering, decompiling, or modifying the software is not allowed.
+4. The software is provided "as is", without warranty of any kind.
+
+By using this software, you agree to these terms.
+
+For licensing inquiries:
+sdfreelance@inbox.lv
